@@ -13,7 +13,7 @@
 * Lazy ver: is to load that ver only when it is time to use it 
 * Learning about didset{} which means what should happen when the variable get set
 * Working with searchbar and how to query Core Data
-
+* Working with Realm DB
 
 
 ----------------------------------
